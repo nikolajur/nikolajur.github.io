@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.79a9e87e.css",
-    "main.js": "/static/js/main.953e5747.js",
-    "static/media/countries-thumbnail.png": "/static/media/countries-thumbnail.dcb6b1a79c941d223586.png",
+    "main.css": "/static/css/main.7713f8d8.css",
+    "main.js": "/static/js/main.594b924e.js",
+    "static/media/countries-thumbnail.png": "/static/media/countries-thumbnail.6ed19a729221358337ba.png",
+    "static/media/portfollio-thumbnail.png": "/static/media/portfollio-thumbnail.bfd25c49e9de84bc1624.png",
     "static/media/postgresql.svg": "/static/media/postgresql.eb30094659aa91bf6b74004a39303161.svg",
     "static/media/react.svg": "/static/media/react.f5f2b1f42cb145b4e7ded2d81cd7117a.svg",
     "static/media/nodedotjs.svg": "/static/media/nodedotjs.ca2ee82be39224c9d9b30ae58ce963a1.svg",
@@ -19,11 +20,11 @@
     "static/media/email.svg": "/static/media/email.c896c61b876597c84ab3ad0e9e7b87ea.svg",
     "static/media/circle.svg": "/static/media/circle.f2fb99a11fc51d6a11a2937bceff7650.svg",
     "static/media/circle-full.svg": "/static/media/circle-full.e42d2223435c4f899fb4c624cd979219.svg",
-    "main.79a9e87e.css.map": "/static/css/main.79a9e87e.css.map",
-    "main.953e5747.js.map": "/static/js/main.953e5747.js.map"
+    "main.7713f8d8.css.map": "/static/css/main.7713f8d8.css.map",
+    "main.594b924e.js.map": "/static/js/main.594b924e.js.map"
   },
   "entrypoints": [
-    "static/css/main.79a9e87e.css",
-    "static/js/main.953e5747.js"
+    "static/css/main.7713f8d8.css",
+    "static/js/main.594b924e.js"
   ]
 }
