@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.7713f8d8.css",
-    "main.js": "/static/js/main.594b924e.js",
+    "main.css": "/static/css/main.5b832ddd.css",
+    "main.js": "/static/js/main.3c500f83.js",
     "static/media/countries-thumbnail.png": "/static/media/countries-thumbnail.6ed19a729221358337ba.png",
+    "static/media/weather-thumbnail.png": "/static/media/weather-thumbnail.ade28831863237c65318.png",
     "static/media/portfollio-thumbnail.png": "/static/media/portfollio-thumbnail.bfd25c49e9de84bc1624.png",
     "static/media/postgresql.svg": "/static/media/postgresql.eb30094659aa91bf6b74004a39303161.svg",
     "static/media/react.svg": "/static/media/react.f5f2b1f42cb145b4e7ded2d81cd7117a.svg",
@@ -20,11 +21,11 @@
     "static/media/email.svg": "/static/media/email.c896c61b876597c84ab3ad0e9e7b87ea.svg",
     "static/media/circle.svg": "/static/media/circle.f2fb99a11fc51d6a11a2937bceff7650.svg",
     "static/media/circle-full.svg": "/static/media/circle-full.e42d2223435c4f899fb4c624cd979219.svg",
-    "main.7713f8d8.css.map": "/static/css/main.7713f8d8.css.map",
-    "main.594b924e.js.map": "/static/js/main.594b924e.js.map"
+    "main.5b832ddd.css.map": "/static/css/main.5b832ddd.css.map",
+    "main.3c500f83.js.map": "/static/js/main.3c500f83.js.map"
   },
   "entrypoints": [
-    "static/css/main.7713f8d8.css",
-    "static/js/main.594b924e.js"
+    "static/css/main.5b832ddd.css",
+    "static/js/main.3c500f83.js"
   ]
 }
